@@ -1,0 +1,118 @@
+---
+title: "Teaching & Mentorship"
+description: "Teaching and mentorship by Ron Nissim."
+toc: true
+toc-title: "On this page"
+---
+
+::: {.page-intro}
+<p class="eyebrow">Teaching & mentorship</p>
+
+# Teaching
+
+At MIT, I have taught multivariable calculus, stochastic calculus, and random matrix theory, and mentored undergraduate students through directed reading and research programs in probability and mathematical physics.
+:::
+
+## Teaching experience
+
+::: {.timeline}
+::: {.timeline-item}
+::: {.timeline-date}
+Fall 2025
+:::
+
+::: {.timeline-content}
+### 18.02: Multivariable Calculus
+
+Recitation leader · Massachusetts Institute of Technology
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Spring 2024
+:::
+
+::: {.timeline-content}
+### 18.676: Stochastic Calculus
+
+Teaching assistant/grader · Massachusetts Institute of Technology
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Fall 2023
+:::
+
+::: {.timeline-content}
+### 18.338: Random Matrix Theory
+
+Teaching assistant/grader · Massachusetts Institute of Technology
+:::
+:::
+:::
+
+## Mentorship
+
+::: {.timeline}
+::: {.timeline-item}
+::: {.timeline-date}
+January 2026
+:::
+
+::: {.timeline-content}
+### Directed Reading Program
+
+Mentored Diego Caballero and Davit Kldiashvili in a reading course based on Berestycki and Powell's *Gaussian Free Field and Liouville Quantum Gravity*.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Summer 2024
+:::
+
+::: {.timeline-content}
+### Summer Program in Undergraduate Research
+
+Mentored Enrique Rivera on **“$\mathrm{U}(1)$ lattice gauge theory and random height functions.”**
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+January 2024
+:::
+
+::: {.timeline-content}
+### Directed Reading Program
+
+Mentored Brandon Wang, Enrique Rivera, and Matija Delic in a reading course based on Le Gall and Miermont's notes *Scaling Limits of Random Trees and Planar Maps*.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Summer-Fall 2023
+:::
+
+::: {.timeline-content}
+### Undergraduate Research Opportunity
+
+Mentored Omar Abdelghani on **“Geometric Derivation of the Finite $N$ Master Loop Equation.”** The project led to a joint [preprint](https://arxiv.org/abs/2309.07399).
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+January 2023
+:::
+
+::: {.timeline-content}
+### Directed Reading Program
+
+Mentored Saba Lepsveridze in a reading course based on Ramon van Handel's *High Dimensional Probability*.
+:::
+:::
+:::

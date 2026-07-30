@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Ron Nissim"
+  description: "Research, publications, teaching, and talks by Ron Nissim."
+  site-url: "https://rn9801.github.io"
+  open-graph: true
+  twitter-card: true
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    background: light
+    pinned: true
+    collapse-below: lg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching & Mentorship
+      - href: talks.qmd
+        text: Talks
+      - href: files/Ron-Nissim-CV.pdf
+        text: CV
+    right:
+      - icon: github
+        href: "https://github.com/rn9801"
+        aria-label: GitHub
+      - icon: person-badge
+        href: "https://math.mit.edu/directory/profile.html?pid=2422"
+        aria-label: MIT profile
+  page-footer:
+    left: "© 2026 Ron Nissim"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: false
+    code-copy: true
+
+execute:
+  freeze: auto

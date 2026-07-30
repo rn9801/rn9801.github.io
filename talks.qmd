@@ -1,0 +1,154 @@
+---
+title: "Talks"
+description: "Selected seminar talks, conference talks, and posters by Ron Nissim."
+toc: true
+toc-title: "On this page"
+---
+
+::: {.page-intro}
+<p class="eyebrow">Seminars, conferences & workshops</p>
+
+# Talks
+
+Selected presentations on lattice Yang–Mills theory, random matrix theory, and integrable probability.
+:::
+
+## Seminar and conference talks
+
+::: {.talk-list}
+::: {.talk}
+::: {.talk-year}
+Jun 2026
+:::
+
+::: {.talk-details}
+### Confinement and Deconfinement in Lattice Yang–Mills Theory
+
+Peking Summer in Probability
+:::
+:::
+
+::: {.talk}
+::: {.talk-year}
+May 2026
+:::
+
+::: {.talk-details}
+### Area Law and Mass Gap for Lattice Yang–Mills at Strong Coupling
+
+MIT Probability Seminar
+:::
+:::
+
+::: {.talk}
+::: {.talk-year}
+Mar 2026
+:::
+
+::: {.talk-details}
+### From Weingarten Functions to Random Trees and the Brownian CRT
+
+Northeastern Sectional Meeting of the American Mathematical Society
+:::
+:::
+
+::: {.talk}
+::: {.talk-year}
+Mar 2026
+:::
+
+::: {.talk-details}
+### Area Law and Mass Gap for Lattice Yang–Mills at Strong Coupling
+
+Brin Mathematics Research Center · *Statistical Mechanics of Lattice Systems*
+:::
+:::
+
+::: {.talk}
+::: {.talk-year}
+Nov 2025
+:::
+
+::: {.talk-details}
+### Lattice Yang–Mills at Strong Coupling
+
+Northeast Probability Seminar
+:::
+:::
+
+::: {.talk}
+::: {.talk-year}
+Oct 2025
+:::
+
+::: {.talk-details}
+### Lattice Yang–Mills at Strong Coupling
+
+University of Chicago Probability Seminar
+:::
+:::
+
+::: {.talk}
+::: {.talk-year}
+Sep 2025
+:::
+
+::: {.talk-details}
+### Lattice Yang–Mills at Strong Coupling
+
+UC San Diego Probability Seminar
+:::
+:::
+
+::: {.talk}
+::: {.talk-year}
+Nov 2024
+:::
+
+::: {.talk-details}
+### On the Limit of the Tridiagonal Model for $\beta$-Dyson Brownian Motion
+
+Northeast Probability Seminar
+:::
+:::
+
+::: {.talk}
+::: {.talk-year}
+Apr 2023
+:::
+
+::: {.talk-details}
+### Asymptotics of the one-point distribution of the KPZ fixed point conditioned on a large height at an earlier point
+
+MIT Integrable Probability Seminar
+:::
+:::
+:::
+
+## Conference posters
+
+::: {.poster-grid}
+::: {.poster-card}
+<span class="talk-date">July 2026</span>
+
+### Formalization of QFT: Osterwalder–Schrader Axioms for the Free Field in Lean 4
+
+International Conference on Machine Learning
+:::
+
+::: {.poster-card}
+<span class="talk-date">July 2026</span>
+
+### From Weingarten Functions to Random Trees and the Brownian CRT
+
+*Random Explorations: From Random Walks to Random Geometry* · IMSI
+:::
+
+::: {.poster-card}
+<span class="talk-date">May 2026</span>
+
+### Area Law and Mass Gap for Lattice Yang–Mills at Strong Coupling
+
+*Probabilistic Paths to Quantum Field Theory* · Simons Collaboration Annual Meeting
+:::
+:::

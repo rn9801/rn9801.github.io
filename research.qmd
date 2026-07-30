@@ -1,0 +1,249 @@
+---
+title: "Research"
+description: "Publications, preprints, and academic service by Ron Nissim."
+toc: true
+toc-title: "On this page"
+---
+
+::: {.page-intro}
+<p class="eyebrow">Publications & preprints</p>
+
+# Research
+
+My research lies at the intersection of **probability theory** and **mathematical physics**. I am particularly interested in lattice Yang–Mills theory, lattice spin systems, and topics in random matrix theory, including Weingarten calculus and $\beta$-ensembles.
+
+<span class="note">Each entry includes links to the preprint and a short summary of the abstract.</span>
+:::
+
+## Preprints and forthcoming work
+
+::: {#paper-1 .publication}
+::: {.pub-number}
+01
+:::
+
+::: {.pub-body}
+### Deconfinement for $\mathrm{SO}(3)$ Lattice Yang–Mills at Strong Coupling
+
+**Ron Nissim** · Preprint, 2026
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2605.16162){.pub-link}
+[PDF](https://arxiv.org/pdf/2605.16162){.pub-link}
+:::
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract">
+This paper gives a rigorous proof of the physics prediction that lattice Yang–Mills theories with gauge groups having trivial centers do not obey Wilson's criterion for quark confinement. In particular, it establishes deconfinement for the $\mathrm{SO}(3)$ theory in a strong-coupling regime.
+</div>
+</details>
+:::
+:::
+
+::: {#paper-2 .publication}
+::: {.pub-number}
+02
+:::
+
+::: {.pub-body}
+### $\mathrm{U}(N)$ lattice Yang–Mills in the 't Hooft regime
+
+**Ron Nissim** · Submitted, 2025
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2510.22788){.pub-link}
+[PDF](https://arxiv.org/pdf/2510.22788){.pub-link}
+:::
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract">
+This work establishes a mass gap, proves uniqueness of the infinite-volume limit, and gives a new proof of the large-$N$ limit for $\mathrm{U}(N)$ lattice Yang–Mills theory in the 't Hooft regime. The argument represents the model as a random-environment $\mathrm{SU}(N)$ theory driven by a $\mathrm{U}(1)$ field, then combines cluster-expansion and Langevin-dynamics methods.
+</div>
+</details>
+:::
+:::
+
+::: {#paper-3 .publication}
+::: {.pub-number}
+03
+:::
+
+::: {.pub-body}
+### Expanded regimes of area law for lattice Yang–Mills theories
+
+Sky Cao, **Ron Nissim**, and Scott Sheffield · In revision for *Annals of Probability*
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2505.16585){.pub-link}
+[PDF](https://arxiv.org/pdf/2505.16585){.pub-link}
+:::
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract">
+This paper enlarges the parameter regimes in which area law is known for pure $\mathrm{U}(N)$ lattice Yang–Mills theories, particularly at large $N$. The proof treats the master loop equation as a linear inhomogeneous equation for Wilson-string expectations and controls its merger term through a truncated model.
+</div>
+</details>
+:::
+:::
+
+::: {#paper-4 .publication}
+::: {.pub-number}
+04
+:::
+
+::: {.pub-body}
+### Sharp estimates for large $N$ Weingarten functions
+
+**Ron Nissim** · In revision for *Letters in Mathematical Physics*
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2502.15892){.pub-link}
+[PDF](https://arxiv.org/pdf/2502.15892){.pub-link}
+:::
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract">
+Weingarten functions compute Haar-measure integrals of matrix-entry polynomials and have particularly simple large-$N$ limits. This work proves the optimal conjectured uniform regime $n=o(N^{2/3})$ for the unitary, orthogonal, and symplectic groups by introducing unitary and orthogonal Weingarten processes, and also derives new estimates in wider growth regimes.
+</div>
+</details>
+:::
+:::
+
+::: {#paper-5 .publication}
+::: {.pub-number}
+05
+:::
+
+::: {.pub-body}
+### On the Limit of the Tridiagonal Model for $\beta$-Dyson Brownian Motion
+
+Alan Edelman, Sungwoo Jeong, and **Ron Nissim** · Submitted
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2411.01633){.pub-link}
+[PDF](https://arxiv.org/pdf/2411.01633){.pub-link}
+:::
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract">
+This paper studies Householder tridiagonalization applied dynamically to a Gaussian $\beta$-ensemble process whose eigenvalues follow $\beta$-Dyson Brownian motion. It proposes an explicit fixed-minor limit, proves it for $\beta=1$, supplies numerical evidence for $\beta=1,2,4$, and uses the result to conjecture a dynamical $\beta$-stochastic Airy operator.
+</div>
+</details>
+:::
+:::
+
+::: {#paper-6 .publication}
+::: {.pub-number}
+06
+:::
+
+::: {.pub-body}
+### Geometric Derivation of the Finite $N$ Master Loop Equation
+
+Omar Abdelghani and **Ron Nissim** · Preprint
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2309.07399){.pub-link}
+[PDF](https://arxiv.org/pdf/2309.07399){.pub-link}
+:::
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract">
+This work gives a geometric derivation of the finite-$N$ master loop equation for lattice Yang–Mills models with orthogonal, special unitary, and unitary structure groups. The argument uses integration by parts and the intrinsic geometry of the group, and it clarifies the equivalence with derivations based on Schwinger–Dyson equations and stochastic analysis.
+</div>
+</details>
+:::
+:::
+
+## Published/Accepted
+
+::: {#paper-7 .publication}
+::: {.pub-number}
+07
+:::
+
+::: {.pub-body}
+### Dynamical approach to area law for lattice Yang–Mills
+
+Sky Cao, **Ron Nissim**, and Scott Sheffield · To appear in *Proceedings of the American Mathematical Society*
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2509.04688){.pub-link}
+[PDF](https://arxiv.org/pdf/2509.04688){.pub-link}
+:::
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract">
+The dynamical framework for lattice Yang–Mills is used to prove Wilson's area law in the 't Hooft parameter regime. The key step verifies a mass-gap condition for the gauge groups $\mathrm{U}(N)$, $\mathrm{SU}(N)$, and $\mathrm{SO}(2N)$, after which area law follows.
+</div>
+</details>
+:::
+:::
+
+::: {#paper-8 .publication}
+::: {.pub-number}
+08
+:::
+
+::: {.pub-body}
+### Formalization of QFT: Osterwalder–Schrader Axioms for the Free Field in Lean 4
+
+Michael R. Douglas, Sarah Hoback, Anna Mei, and **Ron Nissim** · *3rd AI for Math Workshop at the 43rd International Conference on Machine Learning (ICML)*, Seoul, South Korea, 2026 · Poster paper
+
+::: {.pub-links}
+[Workshop record](https://openreview.net/forum?id=LxW54SEDPo){.pub-link}
+[Workshop PDF](https://openreview.net/pdf?id=LxW54SEDPo){.pub-link}
+[arXiv](https://arxiv.org/abs/2603.15770){.pub-link}
+:::
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract">
+This project formalizes the construction of the free bosonic quantum field theory in four-dimensional Euclidean spacetime and verifies its Osterwalder–Schrader/Glimm–Jaffe axioms in the Lean 4 theorem prover. It serves as a proof of concept for translating extended arguments in mathematical physics into machine-checked proofs with the help of modern formalization tools.
+</div>
+</details>
+::: 
+:::
+
+::: {#paper-9 .publication}
+::: {.pub-number}
+09
+:::
+
+::: {.pub-body}
+### Edgeworth-type expansion for the one-point distribution of the KPZ fixed point with a large height at a prior location
+
+**Ron Nissim** and Ruixuan Zhang · *Annales de l'Institut Henri Poincaré, Probabilités et Statistiques* **62**(2), 1455–1477 (May 2026)
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2210.04999){.pub-link}
+[PDF](https://arxiv.org/pdf/2210.04999){.pub-link}
+:::
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract">
+For the narrow-wedge KPZ fixed point, this paper studies the one-point distribution conditioned on a large height at an earlier spacetime location. The conditional law is shown to converge to the GUE Tracy–Widom distribution, and the next two correction terms are identified through derivatives of that distribution, producing an Edgeworth-type expansion.
+</div>
+</details>
+:::
+:::
+
+## Academic service
+
+I have served as a referee for:
+
+::: {.service-list}
+- *Annales Henri Poincaré*
+- *Bulletin of the American Mathematical Society*
+- *Communications in Mathematical Physics*
+- *Courant Journal of Pure and Applied Mathematics*
+- *Electronic Journal of Probability*
+:::
