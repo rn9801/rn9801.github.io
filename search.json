@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ron Nissim",
+    "section": "",
+    "text": "PhD candidate in mathematics\n\n\n\n\nDepartment of MathematicsMassachusetts Institute of Technology\n\nI am a fifth-year PhD student in the MIT Department of Mathematics, advised by Scott Sheffield. My research lies at the intersection of probability theory and mathematical physics. More specifically, I am interested in lattice Yang–Mills theory, lattice spin systems, and topics in random matrix theory, including Weingarten calculus and \\(\\beta\\)-ensembles. I am currently on the job market for postdoctoral positions.\n\nView my research Download CV\n\n\n\n\n\n\nRon Nissim\nrnissim at mit dot edu\nDepartment of Mathematics\nMassachusetts Institute of Technology\nOffice 2-231A, Simons Building\n\n\nGitHub · MIT profile · CV"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Ron Nissim",
+    "section": "Research",
+    "text": "Research"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ron Nissim",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Publications & preprints\n\n\n\nMy research lies at the intersection of probability theory and mathematical physics. I am particularly interested in lattice Yang–Mills theory, lattice spin systems, and topics in random matrix theory, including Weingarten calculus and \\(\\beta\\)-ensembles.\nEach entry includes links to the preprint and a short summary of the abstract."
+  },
+  {
+    "objectID": "research.html#preprints-and-forthcoming-work",
+    "href": "research.html#preprints-and-forthcoming-work",
+    "title": "Research",
+    "section": "Preprints and forthcoming work",
+    "text": "Preprints and forthcoming work\n\n\n01\n\n\nDeconfinement for \\(\\mathrm{SO}(3)\\) Lattice Yang–Mills at Strong Coupling\nRon Nissim · Preprint, 2026\n\narXiv PDF\n\n\n\nAbstract\n\n\nThis paper gives a rigorous proof of the physics prediction that lattice Yang–Mills theories with gauge groups having trivial centers do not obey Wilson’s criterion for quark confinement. In particular, it establishes deconfinement for the \\(\\mathrm{SO}(3)\\) theory in a strong-coupling regime.\n\n\n\n\n\n\n02\n\n\n\\(\\mathrm{U}(N)\\) lattice Yang–Mills in the ’t Hooft regime\nRon Nissim · Submitted, 2025\n\narXiv PDF\n\n\n\nAbstract\n\n\nThis work establishes a mass gap, proves uniqueness of the infinite-volume limit, and gives a new proof of the large-\\(N\\) limit for \\(\\mathrm{U}(N)\\) lattice Yang–Mills theory in the ’t Hooft regime. The argument represents the model as a random-environment \\(\\mathrm{SU}(N)\\) theory driven by a \\(\\mathrm{U}(1)\\) field, then combines cluster-expansion and Langevin-dynamics methods.\n\n\n\n\n\n\n03\n\n\nExpanded regimes of area law for lattice Yang–Mills theories\nSky Cao, Ron Nissim, and Scott Sheffield · In revision for Annals of Probability\n\narXiv PDF\n\n\n\nAbstract\n\n\nThis paper enlarges the parameter regimes in which area law is known for pure \\(\\mathrm{U}(N)\\) lattice Yang–Mills theories, particularly at large \\(N\\). The proof treats the master loop equation as a linear inhomogeneous equation for Wilson-string expectations and controls its merger term through a truncated model.\n\n\n\n\n\n\n04\n\n\nSharp estimates for large \\(N\\) Weingarten functions\nRon Nissim · In revision for Letters in Mathematical Physics\n\narXiv PDF\n\n\n\nAbstract\n\n\nWeingarten functions compute Haar-measure integrals of matrix-entry polynomials and have particularly simple large-\\(N\\) limits. This work proves the optimal conjectured uniform regime \\(n=o(N^{2/3})\\) for the unitary, orthogonal, and symplectic groups by introducing unitary and orthogonal Weingarten processes, and also derives new estimates in wider growth regimes.\n\n\n\n\n\n\n05\n\n\nOn the Limit of the Tridiagonal Model for \\(\\beta\\)-Dyson Brownian Motion\nAlan Edelman, Sungwoo Jeong, and Ron Nissim · Submitted\n\narXiv PDF\n\n\n\nAbstract\n\n\nThis paper studies Householder tridiagonalization applied dynamically to a Gaussian \\(\\beta\\)-ensemble process whose eigenvalues follow \\(\\beta\\)-Dyson Brownian motion. It proposes an explicit fixed-minor limit, proves it for \\(\\beta=1\\), supplies numerical evidence for \\(\\beta=1,2,4\\), and uses the result to conjecture a dynamical \\(\\beta\\)-stochastic Airy operator.\n\n\n\n\n\n\n06\n\n\nGeometric Derivation of the Finite \\(N\\) Master Loop Equation\nOmar Abdelghani and Ron Nissim · Preprint\n\narXiv PDF\n\n\n\nAbstract\n\n\nThis work gives a geometric derivation of the finite-\\(N\\) master loop equation for lattice Yang–Mills models with orthogonal, special unitary, and unitary structure groups. The argument uses integration by parts and the intrinsic geometry of the group, and it clarifies the equivalence with derivations based on Schwinger–Dyson equations and stochastic analysis."
+  },
+  {
+    "objectID": "research.html#publishedaccepted",
+    "href": "research.html#publishedaccepted",
+    "title": "Research",
+    "section": "Published/Accepted",
+    "text": "Published/Accepted\n\n\n07\n\n\nDynamical approach to area law for lattice Yang–Mills\nSky Cao, Ron Nissim, and Scott Sheffield · To appear in Proceedings of the American Mathematical Society\n\narXiv PDF\n\n\n\nAbstract\n\n\nThe dynamical framework for lattice Yang–Mills is used to prove Wilson’s area law in the ’t Hooft parameter regime. The key step verifies a mass-gap condition for the gauge groups \\(\\mathrm{U}(N)\\), \\(\\mathrm{SU}(N)\\), and \\(\\mathrm{SO}(2N)\\), after which area law follows.\n\n\n\n\n\n\n08\n\n\nFormalization of QFT: Osterwalder–Schrader Axioms for the Free Field in Lean 4\nMichael R. Douglas, Sarah Hoback, Anna Mei, and Ron Nissim · 3rd AI for Math Workshop at the 43rd International Conference on Machine Learning (ICML), Seoul, South Korea, 2026 · Poster paper\n\nWorkshop record Workshop PDF arXiv\n\n\n\nAbstract\n\n\nThis project formalizes the construction of the free bosonic quantum field theory in four-dimensional Euclidean spacetime and verifies its Osterwalder–Schrader/Glimm–Jaffe axioms in the Lean 4 theorem prover. It serves as a proof of concept for translating extended arguments in mathematical physics into machine-checked proofs with the help of modern formalization tools.\n\n\n\n\n\n\n09\n\n\nEdgeworth-type expansion for the one-point distribution of the KPZ fixed point with a large height at a prior location\nRon Nissim and Ruixuan Zhang · Annales de l’Institut Henri Poincaré, Probabilités et Statistiques 62(2), 1455–1477 (May 2026)\n\narXiv PDF\n\n\n\nAbstract\n\n\nFor the narrow-wedge KPZ fixed point, this paper studies the one-point distribution conditioned on a large height at an earlier spacetime location. The conditional law is shown to converge to the GUE Tracy–Widom distribution, and the next two correction terms are identified through derivatives of that distribution, producing an Edgeworth-type expansion."
+  },
+  {
+    "objectID": "research.html#academic-service",
+    "href": "research.html#academic-service",
+    "title": "Research",
+    "section": "Academic service",
+    "text": "Academic service\nI have served as a referee for:\n\n\nAnnales Henri Poincaré\nBulletin of the American Mathematical Society\nCommunications in Mathematical Physics\nCourant Journal of Pure and Applied Mathematics\nElectronic Journal of Probability"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching & Mentorship",
+    "section": "",
+    "text": "Teaching & mentorship\n\n\n\nAt MIT, I have taught multivariable calculus, stochastic calculus, and random matrix theory, and mentored undergraduate students through directed reading and research programs in probability and mathematical physics."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching & Mentorship",
+    "section": "Teaching experience",
+    "text": "Teaching experience\n\n\n\nFall 2025\n\n\n18.02: Multivariable Calculus\nRecitation leader · Massachusetts Institute of Technology\n\n\n\n\nSpring 2024\n\n\n18.676: Stochastic Calculus\nTeaching assistant/grader · Massachusetts Institute of Technology\n\n\n\n\nFall 2023\n\n\n18.338: Random Matrix Theory\nTeaching assistant/grader · Massachusetts Institute of Technology"
+  },
+  {
+    "objectID": "teaching.html#mentorship",
+    "href": "teaching.html#mentorship",
+    "title": "Teaching & Mentorship",
+    "section": "Mentorship",
+    "text": "Mentorship\n\n\n\nJanuary 2026\n\n\nDirected Reading Program\nMentored Diego Caballero and Davit Kldiashvili in a reading course based on Berestycki and Powell’s Gaussian Free Field and Liouville Quantum Gravity.\n\n\n\n\nSummer 2024\n\n\nSummer Program in Undergraduate Research\nMentored Enrique Rivera on “\\(\\mathrm{U}(1)\\) lattice gauge theory and random height functions.”\n\n\n\n\nJanuary 2024\n\n\nDirected Reading Program\nMentored Brandon Wang, Enrique Rivera, and Matija Delic in a reading course based on Le Gall and Miermont’s notes Scaling Limits of Random Trees and Planar Maps.\n\n\n\n\nSummer-Fall 2023\n\n\nUndergraduate Research Opportunity\nMentored Omar Abdelghani on “Geometric Derivation of the Finite \\(N\\) Master Loop Equation.” The project led to a joint preprint.\n\n\n\n\nJanuary 2023\n\n\nDirected Reading Program\nMentored Saba Lepsveridze in a reading course based on Ramon van Handel’s High Dimensional Probability."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Seminars, conferences & workshops\n\n\n\nSelected presentations on lattice Yang–Mills theory, random matrix theory, and integrable probability."
+  },
+  {
+    "objectID": "talks.html#seminar-and-conference-talks",
+    "href": "talks.html#seminar-and-conference-talks",
+    "title": "Talks",
+    "section": "Seminar and conference talks",
+    "text": "Seminar and conference talks\n\n\n\nJun 2026\n\n\nConfinement and Deconfinement in Lattice Yang–Mills Theory\nPeking Summer in Probability\n\n\n\n\nMay 2026\n\n\nArea Law and Mass Gap for Lattice Yang–Mills at Strong Coupling\nMIT Probability Seminar\n\n\n\n\nMar 2026\n\n\nFrom Weingarten Functions to Random Trees and the Brownian CRT\nNortheastern Sectional Meeting of the American Mathematical Society\n\n\n\n\nMar 2026\n\n\nArea Law and Mass Gap for Lattice Yang–Mills at Strong Coupling\nBrin Mathematics Research Center · Statistical Mechanics of Lattice Systems\n\n\n\n\nNov 2025\n\n\nLattice Yang–Mills at Strong Coupling\nNortheast Probability Seminar\n\n\n\n\nOct 2025\n\n\nLattice Yang–Mills at Strong Coupling\nUniversity of Chicago Probability Seminar\n\n\n\n\nSep 2025\n\n\nLattice Yang–Mills at Strong Coupling\nUC San Diego Probability Seminar\n\n\n\n\nNov 2024\n\n\nOn the Limit of the Tridiagonal Model for \\(\\beta\\)-Dyson Brownian Motion\nNortheast Probability Seminar\n\n\n\n\nApr 2023\n\n\nAsymptotics of the one-point distribution of the KPZ fixed point conditioned on a large height at an earlier point\nMIT Integrable Probability Seminar"
+  },
+  {
+    "objectID": "talks.html#conference-posters",
+    "href": "talks.html#conference-posters",
+    "title": "Talks",
+    "section": "Conference posters",
+    "text": "Conference posters\n\n\nJuly 2026\n\nFormalization of QFT: Osterwalder–Schrader Axioms for the Free Field in Lean 4\nInternational Conference on Machine Learning\n\n\n\nJuly 2026\n\nFrom Weingarten Functions to Random Trees and the Brownian CRT\nRandom Explorations: From Random Walks to Random Geometry · IMSI\n\n\n\nMay 2026\n\nArea Law and Mass Gap for Lattice Yang–Mills at Strong Coupling\nProbabilistic Paths to Quantum Field Theory · Simons Collaboration Annual Meeting"
+  }
+]
