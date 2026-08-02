@@ -18,6 +18,18 @@ Selected presentations on lattice Yang–Mills theory, random matrix theory, and
 ::: {.talk-list}
 ::: {.talk}
 ::: {.talk-year}
+Jul 2026
+:::
+
+::: {.talk-details}
+### Expanded Regime of Area Law for Lattice Yang–Mills Theories
+
+International Congress of Mathematics
+:::
+:::
+
+::: {.talk}
+::: {.talk-year}
 Jun 2026
 :::
 

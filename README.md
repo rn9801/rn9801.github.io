@@ -1,6 +1,6 @@
 # Ron Nissim’s academic website
 
-Source for my academic website, built with [Quarto](https://quarto.org).
+This is my personal academic website.
 
 ## Preview
 
