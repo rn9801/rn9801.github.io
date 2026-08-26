@@ -73,7 +73,7 @@ This work establishes a mass gap, proves uniqueness of the infinite-volume limit
 ::: {.pub-body}
 ### Expanded regimes of area law for lattice Yang–Mills theories
 
-Sky Cao, **Ron Nissim**, and Scott Sheffield · In revision for *Annals of Probability*
+Sky Cao, **Ron Nissim**, and Scott Sheffield · Under revision for *Annals of Probability* · Preprint, 2025
 
 ::: {.pub-links}
 [arXiv](https://arxiv.org/abs/2505.16585){.pub-link}
@@ -97,7 +97,7 @@ This paper enlarges the parameter regimes in which area law is known for pure $\
 ::: {.pub-body}
 ### Sharp estimates for large $N$ Weingarten functions
 
-**Ron Nissim** · In revision for *Letters in Mathematical Physics*
+**Ron Nissim** · Under revision for *Letters in Mathematical Physics* · Preprint, 2025
 
 ::: {.pub-links}
 [arXiv](https://arxiv.org/abs/2502.15892){.pub-link}
@@ -121,7 +121,7 @@ Weingarten functions compute Haar-measure integrals of matrix-entry polynomials 
 ::: {.pub-body}
 ### On the Limit of the Tridiagonal Model for $\beta$-Dyson Brownian Motion
 
-Alan Edelman, Sungwoo Jeong, and **Ron Nissim** · Submitted
+Alan Edelman, Sungwoo Jeong, and **Ron Nissim** · Submitted, 2024
 
 ::: {.pub-links}
 [arXiv](https://arxiv.org/abs/2411.01633){.pub-link}
@@ -145,7 +145,7 @@ This paper studies Householder tridiagonalization applied dynamically to a Gauss
 ::: {.pub-body}
 ### Geometric Derivation of the Finite $N$ Master Loop Equation
 
-Omar Abdelghani and **Ron Nissim** · Preprint
+Omar Abdelghani and **Ron Nissim** · Preprint, 2023
 
 ::: {.pub-links}
 [arXiv](https://arxiv.org/abs/2309.07399){.pub-link}
@@ -171,7 +171,7 @@ This work gives a geometric derivation of the finite-$N$ master loop equation fo
 ::: {.pub-body}
 ### Dynamical approach to area law for lattice Yang–Mills
 
-Sky Cao, **Ron Nissim**, and Scott Sheffield · To appear in *Proceedings of the American Mathematical Society*
+Sky Cao, **Ron Nissim**, and Scott Sheffield · To appear in *Proceedings of the American Mathematical Society* · Preprint, 2025
 
 ::: {.pub-links}
 [arXiv](https://arxiv.org/abs/2509.04688){.pub-link}
@@ -195,7 +195,7 @@ The dynamical framework for lattice Yang–Mills is used to prove Wilson's area 
 ::: {.pub-body}
 ### Formalization of QFT: Osterwalder–Schrader Axioms for the Free Field in Lean 4
 
-Michael R. Douglas, Sarah Hoback, Anna Mei, and **Ron Nissim** · *3rd AI for Math Workshop at the 43rd International Conference on Machine Learning (ICML)*, Seoul, South Korea, 2026 · Poster paper
+Michael R. Douglas, Sarah Hoback, Anna Mei, and **Ron Nissim** · *3rd AI for Math Workshop at the 43rd International Conference on Machine Learning (ICML)*, Seoul, South Korea, July 2026 · Workshop paper and poster
 
 ::: {.pub-links}
 [Workshop record](https://openreview.net/forum?id=LxW54SEDPo){.pub-link}
@@ -220,7 +220,7 @@ This project formalizes the construction of the free bosonic quantum field theor
 ::: {.pub-body}
 ### Edgeworth-type expansion for the one-point distribution of the KPZ fixed point with a large height at a prior location
 
-**Ron Nissim** and Ruixuan Zhang · *Annales de l'Institut Henri Poincaré, Probabilités et Statistiques* **62**(2), 1455–1477 (May 2026)
+**Ron Nissim** and Ruixuan Zhang · *Annales de l'Institut Henri Poincaré, Probabilités et Statistiques* **62**(2), 1455–1477 (2026)
 
 ::: {.pub-links}
 [arXiv](https://arxiv.org/abs/2210.04999){.pub-link}
