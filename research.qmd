@@ -147,7 +147,7 @@ This work gives a geometric derivation of the finite-$N$ master loop equation fo
 ::: {.pub-body}
 ### Dynamical approach to area law for lattice Yang–Mills
 
-Sky Cao, **Ron Nissim**, and Scott Sheffield · To appear in *Proceedings of the American Mathematical Society* · Preprint, 2025
+Sky Cao, **Ron Nissim**, and Scott Sheffield · To appear in *Proceedings of the American Mathematical Society*
 
 ::: {.pub-links}
 [arXiv](https://arxiv.org/abs/2509.04688){.pub-link}
@@ -171,7 +171,7 @@ The dynamical framework for lattice Yang–Mills is used to prove Wilson's area 
 ::: {.pub-body}
 ### Sharp estimates for large $N$ Weingarten functions
 
-**Ron Nissim** · To appear in *Letters in Mathematical Physics* · Preprint, 2025
+**Ron Nissim** · To appear in *Letters in Mathematical Physics*
 
 ::: {.pub-links}
 [arXiv](https://arxiv.org/abs/2502.15892){.pub-link}
